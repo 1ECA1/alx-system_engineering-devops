@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -h vincent:staff _hello
+chmod -h vincent:staff _hello *create the hello symbolic link using the command ln -s hello _hello*
