@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R=X.
+chmod -R=X {include a fullstop symbol immedaitely after the X, makre sure there is a space between them}>>>>
